@@ -1,0 +1,12 @@
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\bin\Debug\VbCalculator.exe.config
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\bin\Debug\VbCalculator.exe
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\bin\Debug\VbCalculator.pdb
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\bin\Debug\VbCalculator.xml
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.vbprojAssemblyReference.cache
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.Form1.resources
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.Resources.resources
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.vbproj.GenerateResource.cache
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.exe
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.xml
+C:\Users\PhathutshedzoT\source\repos\VbCalculator\VbCalculator\obj\Debug\VbCalculator.pdb
